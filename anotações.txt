@@ -1,0 +1,3 @@
+Onde ia:
+https://github.com/Ricardoaraujo00/blazor-workshop/blob/master/docs/03-show-order-status.md
+It looks like a lot of code, but there's nothing special here. It simply uses
