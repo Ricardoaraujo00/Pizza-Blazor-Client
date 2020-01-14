@@ -941,11 +941,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Estágio\\blazor-workshop\\save-points\\01-Components-and-layout\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
       "projectName": "BlazingPizza.Shared",
-      "projectPath": "C:\\Users\\User\\Desktop\\Estágio\\blazor-workshop\\save-points\\01-Components-and-layout\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Estágio\\blazor-workshop\\save-points\\01-Components-and-layout\\BlazingPizza.Shared\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -965,8 +965,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\Estágio\\blazor-workshop\\save-points\\01-Components-and-layout\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\Estágio\\blazor-workshop\\save-points\\01-Components-and-layout\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj"
+            "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj"
             }
           }
         }

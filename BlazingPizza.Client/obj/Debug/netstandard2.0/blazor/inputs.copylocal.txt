@@ -22,5 +22,5 @@ C:\Users\User\.nuget\packages\system.runtime.compilerservices.unsafe\4.6.0\lib\n
 C:\Users\User\.nuget\packages\system.text.encodings.web\4.6.0\lib\netstandard2.0\System.Text.Encodings.Web.dll
 C:\Users\User\.nuget\packages\system.text.json\4.6.0\lib\netstandard2.0\System.Text.Json.dll
 C:\Users\User\.nuget\packages\system.threading.tasks.extensions\4.5.2\lib\netstandard2.0\System.Threading.Tasks.Extensions.dll
-C:\Users\User\Desktop\Estágio\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\bin\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.dll
-C:\Users\User\Desktop\Estágio\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.Shared\bin\Debug\netstandard2.0\BlazingPizza.Shared.dll
+C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.ComponentsLibrary\bin\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.dll
+C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Shared\bin\Debug\netstandard2.0\BlazingPizza.Shared.dll

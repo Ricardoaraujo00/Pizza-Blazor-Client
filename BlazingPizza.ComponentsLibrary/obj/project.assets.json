@@ -923,11 +923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Estágio\\blazor-workshop\\save-points\\01-Components-and-layout\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
       "projectName": "BlazingPizza.ComponentsLibrary",
-      "projectPath": "C:\\Users\\User\\Desktop\\Estágio\\blazor-workshop\\save-points\\01-Components-and-layout\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Estágio\\blazor-workshop\\save-points\\01-Components-and-layout\\BlazingPizza.ComponentsLibrary\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.ComponentsLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
