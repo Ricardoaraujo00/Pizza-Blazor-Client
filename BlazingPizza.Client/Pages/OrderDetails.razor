@@ -1,4 +1,5 @@
-﻿@page "/myorders/{orderId:int}"
+﻿@attribute [Authorize]
+@page "/myorders/{orderId:int}"
 @using System.Threading
 @inject HttpClient HttpClient
 @implements IDisposable
@@ -28,6 +29,9 @@
                 <div class="track-order-details">
                     <OrderReview Order="@orderWithStatus.Order" />
                 </div>
+                <div class="track-order-map">
+                    <Map Zoom="13" Markers="orderWithStatus.MapMarkers" />
+                </div>
             </div>
         </div>
     }
@@ -38,7 +42,7 @@
     OrderWithStatus orderWithStatus;
     bool invalidOrder;
     CancellationTokenSource pollingCancellationToken;
-
+    
     protected override void OnParametersSet()
     {
         // If we were already polling for a different order, stop doing so

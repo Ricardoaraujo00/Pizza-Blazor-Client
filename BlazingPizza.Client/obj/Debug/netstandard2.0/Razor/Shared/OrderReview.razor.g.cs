@@ -59,6 +59,16 @@ using BlazingPizza.ComponentsLibrary;
 
 #line default
 #line hidden
+#line 11 "C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\_Imports.razor"
+using BlazingPizza.ComponentsLibrary.Map;
+
+#line default
+#line hidden
+#line 12 "C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\_Imports.razor"
+using BlazingComponents;
+
+#line default
+#line hidden
     public partial class OrderReview : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

@@ -4,6 +4,73 @@
     "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.Client\\BlazingPizza.Client.csproj": {}
   },
   "projects": {
+    "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingComponents\\BlazingComponents.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingComponents\\BlazingComponents.csproj",
+        "projectName": "BlazingComponents",
+        "projectPath": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingComponents\\BlazingComponents.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingComponents\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Components": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.Client\\BlazingPizza.Client.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -31,6 +98,9 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
+              "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingComponents\\BlazingComponents.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingComponents\\BlazingComponents.csproj"
+              },
               "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
                 "projectPath": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj"
               },
@@ -64,7 +134,7 @@
             },
             "Microsoft.AspNetCore.Components.Authorization": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.1, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",

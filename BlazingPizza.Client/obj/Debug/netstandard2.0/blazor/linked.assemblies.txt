@@ -1,3 +1,4 @@
+C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingComponents.dll
 C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingPizza.Client.dll
 C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingPizza.ComponentsLibrary.dll
 C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingPizza.Shared.dll
@@ -30,6 +31,7 @@ C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug
 C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Text.Encodings.Web.dll
 C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Text.Json.dll
 C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingComponents.pdb
 C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingPizza.Client.pdb
 C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingPizza.ComponentsLibrary.pdb
 C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingPizza.Shared.pdb

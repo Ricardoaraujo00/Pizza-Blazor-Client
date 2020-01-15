@@ -1,3 +1,4 @@
+BlazingComponents.dll
 BlazingPizza.ComponentsLibrary.dll
 BlazingPizza.Shared.dll
 Microsoft.AspNetCore.Authorization.dll
@@ -29,6 +30,7 @@ System.Runtime.CompilerServices.Unsafe.dll
 System.Text.Encodings.Web.dll
 System.Text.Json.dll
 System.Threading.Tasks.Extensions.dll
+BlazingComponents.pdb
 BlazingPizza.Client.pdb
 BlazingPizza.ComponentsLibrary.pdb
 BlazingPizza.Shared.pdb

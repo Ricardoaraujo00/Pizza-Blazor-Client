@@ -294,3 +294,11 @@ C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug
 C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\Razor\Pages\Checkout.razor.g.cs
 C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\RazorDeclaration\Shared\AddressEditor.razor.g.cs
 C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\Razor\Shared\AddressEditor.razor.g.cs
+C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\BlazingComponents.dll
+C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\BlazingComponents.pdb
+C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\bin\Debug\netstandard2.0\BlazingComponents.dll
+C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\bin\Debug\netstandard2.0\BlazingComponents.pdb
+C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingComponents.dll
+C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingComponents.pdb
