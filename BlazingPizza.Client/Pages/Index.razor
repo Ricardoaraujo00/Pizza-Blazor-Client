@@ -3,6 +3,8 @@
 @inject OrderState OrderState
 @inject NavigationManager NavigationManager
 @inject IJSRuntime JS
+@using BlazingComponents
+@using BlazingPizza.Client
 
 <div class="main">
     <ul class="pizza-cards">
@@ -27,6 +29,7 @@
     {
         <div class="order-contents">
             <h2>Your order</h2>
+            <h1 @onclick="@(() => count101++)">@count101</h1>
 
             @foreach (var configuredPizza in OrderState.Order.Pizzas)
             {
@@ -43,7 +46,7 @@
         Total:
         <span class="total-price">@OrderState.Order.GetFormattedTotalPrice()</span>
         <a href="checkout" class="btn btn-warning" disabled="@(OrderState.Order.Pizzas.Count == 0)">
-            Order >
+            Order 
         </a>
     </div>
 </div>
@@ -57,6 +60,7 @@
 
 @code {
     List<PizzaSpecial> specials;
+    int count101 = 101;
 
 
     protected async override Task OnInitializedAsync()

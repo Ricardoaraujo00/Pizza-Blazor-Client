@@ -1,0 +1,11 @@
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Shared\bin\Release\netstandard2.0\BlazingPizza.Shared.deps.json
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Shared\bin\Release\netstandard2.0\BlazingPizza.Shared.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Shared\bin\Release\netstandard2.0\BlazingPizza.Shared.pdb
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Shared\bin\Release\netstandard2.0\BlazingPizza.ComponentsLibrary.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Shared\bin\Release\netstandard2.0\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Shared\obj\Release\netstandard2.0\BlazingPizza.Shared.csprojAssemblyReference.cache
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Shared\obj\Release\netstandard2.0\BlazingPizza.Shared.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Shared\obj\Release\netstandard2.0\BlazingPizza.Shared.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Shared\obj\Release\netstandard2.0\BlazingPizza.Shared.csproj.CopyComplete
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Shared\obj\Release\netstandard2.0\BlazingPizza.Shared.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Shared\obj\Release\netstandard2.0\BlazingPizza.Shared.pdb

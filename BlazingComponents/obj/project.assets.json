@@ -932,23 +932,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\ricar\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingComponents\\BlazingComponents.csproj",
+      "projectUniqueName": "C:\\Users\\ricar\\OneDrive\\Pessoal\\Área de Trabalho\\Projectos\\Pizza-Blazor-Client\\BlazingComponents\\BlazingComponents.csproj",
       "projectName": "BlazingComponents",
-      "projectPath": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingComponents\\BlazingComponents.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingComponents\\obj\\",
+      "projectPath": "C:\\Users\\ricar\\OneDrive\\Pessoal\\Área de Trabalho\\Projectos\\Pizza-Blazor-Client\\BlazingComponents\\BlazingComponents.csproj",
+      "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ricar\\OneDrive\\Pessoal\\Área de Trabalho\\Projectos\\Pizza-Blazor-Client\\BlazingComponents\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -998,7 +998,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

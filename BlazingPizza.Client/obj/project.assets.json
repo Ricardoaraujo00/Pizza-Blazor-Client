@@ -1345,23 +1345,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\ricar\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
+      "projectUniqueName": "C:\\Users\\ricar\\OneDrive\\Pessoal\\Área de Trabalho\\Projectos\\Pizza-Blazor-Client\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
       "projectName": "BlazingPizza.Client",
-      "projectPath": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.Client\\obj\\",
+      "projectPath": "C:\\Users\\ricar\\OneDrive\\Pessoal\\Área de Trabalho\\Projectos\\Pizza-Blazor-Client\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
+      "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ricar\\OneDrive\\Pessoal\\Área de Trabalho\\Projectos\\Pizza-Blazor-Client\\BlazingPizza.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1375,14 +1375,14 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingComponents\\BlazingComponents.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingComponents\\BlazingComponents.csproj"
+            "C:\\Users\\ricar\\OneDrive\\Pessoal\\Área de Trabalho\\Projectos\\Pizza-Blazor-Client\\BlazingComponents\\BlazingComponents.csproj": {
+              "projectPath": "C:\\Users\\ricar\\OneDrive\\Pessoal\\Área de Trabalho\\Projectos\\Pizza-Blazor-Client\\BlazingComponents\\BlazingComponents.csproj"
             },
-            "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj"
+            "C:\\Users\\ricar\\OneDrive\\Pessoal\\Área de Trabalho\\Projectos\\Pizza-Blazor-Client\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
+              "projectPath": "C:\\Users\\ricar\\OneDrive\\Pessoal\\Área de Trabalho\\Projectos\\Pizza-Blazor-Client\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj"
             },
-            "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\Estágio\\Pizza-Blazor-Client\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj"
+            "C:\\Users\\ricar\\OneDrive\\Pessoal\\Área de Trabalho\\Projectos\\Pizza-Blazor-Client\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
+              "projectPath": "C:\\Users\\ricar\\OneDrive\\Pessoal\\Área de Trabalho\\Projectos\\Pizza-Blazor-Client\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj"
             }
           }
         }
@@ -1430,7 +1430,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

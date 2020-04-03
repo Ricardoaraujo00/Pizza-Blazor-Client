@@ -1,40 +1,40 @@
 Debug
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingComponents.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingPizza.Client.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingPizza.ComponentsLibrary.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingPizza.Shared.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Authorization.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.HttpClient.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Authorization.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Forms.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Web.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Metadata.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Options.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Primitives.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.JSInterop.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Mono.Security.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\mscorlib.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Buffers.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.ComponentModel.Annotations.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Core.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Memory.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Net.Http.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Numerics.Vectors.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Text.Encodings.Web.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Text.Json.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Threading.Tasks.Extensions.dll
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingComponents.pdb
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingPizza.Client.pdb
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingPizza.ComponentsLibrary.pdb
-C:\Users\User\Desktop\Estágio\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingPizza.Shared.pdb
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingComponents.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingPizza.Client.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingPizza.ComponentsLibrary.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingPizza.Shared.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Options.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Primitives.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.JSInterop.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Mono.Security.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\mscorlib.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Buffers.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.ComponentModel.Annotations.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Core.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Memory.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Net.Http.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Numerics.Vectors.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Text.Encodings.Web.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Text.Json.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\System.Threading.Tasks.Extensions.dll
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingComponents.pdb
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingPizza.Client.pdb
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Client\obj\Debug\netstandard2.0\blazor\linker\BlazingPizza.Shared.pdb
 true
 true
