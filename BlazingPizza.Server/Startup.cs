@@ -49,7 +49,17 @@ namespace BlazingPizza.Server
                         context.HandleResponse();
                         return context.Response.WriteAsync("<script>window.close();</script>");
                     };
-                });
+                })
+            .AddGoogle(googleOptions =>
+             {
+                 googleOptions.ClientId = Configuration["Authentication:Google:ClientId"];
+                 googleOptions.ClientSecret = Configuration["Authentication:Google:ClientSecret"];
+                 googleOptions.Events.OnRemoteFailure = (context) =>
+                 {
+                     context.HandleResponse();
+                     return context.Response.WriteAsync("<script>window.close();</script>");
+                 };
+             });
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

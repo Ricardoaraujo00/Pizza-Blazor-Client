@@ -31,3 +31,15 @@ C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\
 C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Shared\obj\Debug\netstandard2.0\BlazingPizza.Shared.csproj.CopyComplete
 C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Shared\obj\Debug\netstandard2.0\BlazingPizza.Shared.dll
 C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingPizza.Shared\obj\Debug\netstandard2.0\BlazingPizza.Shared.pdb
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Shared\bin\Debug\netstandard2.0\BlazingPizza.Shared.deps.json
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Shared\bin\Debug\netstandard2.0\BlazingPizza.Shared.dll
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Shared\bin\Debug\netstandard2.0\BlazingPizza.Shared.pdb
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Shared\bin\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.dll
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Shared\bin\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Shared\obj\Debug\netstandard2.0\BlazingPizza.Shared.csprojAssemblyReference.cache
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Shared\obj\Debug\netstandard2.0\BlazingPizza.Shared.AssemblyInfoInputs.cache
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Shared\obj\Debug\netstandard2.0\BlazingPizza.Shared.AssemblyInfo.cs
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Shared\obj\Debug\netstandard2.0\BlazingPizza.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Shared\obj\Debug\netstandard2.0\BlazingPizza.Shared.csproj.CopyComplete
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Shared\obj\Debug\netstandard2.0\BlazingPizza.Shared.dll
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Shared\obj\Debug\netstandard2.0\BlazingPizza.Shared.pdb

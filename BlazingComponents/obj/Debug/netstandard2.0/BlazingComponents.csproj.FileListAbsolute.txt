@@ -46,3 +46,30 @@ C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\
 C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\BlazingComponents.dll
 C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\BlazingComponents.pdb
 C:\Users\ricar\OneDrive\Pessoal\Área de Trabalho\Projectos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\BlazingComponents.csprojAssemblyReference.cache
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\bin\Debug\netstandard2.0\BlazingComponents.deps.json
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\bin\Debug\netstandard2.0\BlazingComponents.dll
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\bin\Debug\netstandard2.0\BlazingComponents.pdb
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\BlazingComponents.csprojAssemblyReference.cache
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\BlazingComponents.AssemblyInfoInputs.cache
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\BlazingComponents.AssemblyInfo.cs
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\BlazingComponents.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\BlazingComponents.RazorComponent.input.cache
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\RazorDeclaration\Component1.razor.g.cs
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\RazorDeclaration\TemplatedDialog.razor.g.cs
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\RazorDeclaration\TemplatedList.razor.g.cs
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\RazorDeclaration\BlazingComponents.dll
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\BlazingComponents.TagHelpers.input.cache
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\BlazingComponents.TagHelpers.output.cache
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\BlazingComponents.RazorCoreGenerate.cache
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\Razor\Component1.razor.g.cs
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\Razor\TemplatedDialog.razor.g.cs
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\Razor\TemplatedList.razor.g.cs
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\Razor\_Imports.razor.g.cs
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\BlazingComponents.RazorTargetAssemblyInfo.cache
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\staticwebassets\BlazingComponents.StaticWebAssets.Manifest.cache
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\staticwebassets\BlazingComponents.StaticWebAssets.xml
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\BlazingComponents.dll
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\BlazingComponents.pdb
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\BlazingComponents.RazorComponent.output.cache
+C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\obj\Debug\netstandard2.0\scopedcss\bundle\BlazingComponents.styles.css
