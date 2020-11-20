@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/BlazingComponents" Path="C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingComponents\wwwroot\" />
+  <ContentRoot BasePath="_content/BlazingPizza.ComponentsLibrary" Path="C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.ComponentsLibrary\wwwroot\" />
+</StaticWebAssets>

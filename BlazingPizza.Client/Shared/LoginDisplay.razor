@@ -1,10 +1,21 @@
-﻿<div class="user-info">
+﻿@using System.Security.Claims
+@using Microsoft.AspNetCore.Authorization
+@using System.Net.Http
+@inject HttpClient Http
+<div class="user-info">
     <AuthorizeView>
         <Authorizing>
             <text>...</text>
         </Authorizing>
         <Authorized>
-            <img src="img/user.svg" />
+            @if (avatar != null)
+            {
+                <img class="rounded" src="@avatar" />
+            }
+            else
+            {
+                <img src="img/user.svg" />
+            }
             <div>
                 <span class="username">@context.User.Identity.Name</span>
                 <a class="sign-out" href="user/signout">Sign out</a>
@@ -17,5 +28,12 @@
 </div>
 
 @code {
+    string avatar = null;
+
+    protected override async Task OnInitializedAsync()
+    {
+        avatar = await Http.GetStringAsync("user/picture");
+        StateHasChanged();
+    }
 
 }

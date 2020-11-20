@@ -12,16 +12,6 @@ namespace BlazingPizza.Client.Shared
     using System.Linq;
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
-#line 1 "C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Client\_Imports.razor"
-using System.Net.Http;
-
-#line default
-#line hidden
-#line 2 "C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Client\_Imports.razor"
-using Microsoft.AspNetCore.Authorization;
-
-#line default
-#line hidden
 #line 3 "C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
@@ -72,6 +62,21 @@ using BlazingComponents;
 
 #line default
 #line hidden
+#line 1 "C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Client\Shared\LoginDisplay.razor"
+using System.Security.Claims;
+
+#line default
+#line hidden
+#line 2 "C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Client\Shared\LoginDisplay.razor"
+using Microsoft.AspNetCore.Authorization;
+
+#line default
+#line hidden
+#line 3 "C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Client\Shared\LoginDisplay.razor"
+using System.Net.Http;
+
+#line default
+#line hidden
     public partial class LoginDisplay : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -79,6 +84,20 @@ using BlazingComponents;
         {
         }
         #pragma warning restore 1998
+#line 30 "C:\Users\ricar\source\repos\Pizza-Blazor-Client\BlazingPizza.Client\Shared\LoginDisplay.razor"
+       
+    string avatar = null;
+
+    protected override async Task OnInitializedAsync()
+    {
+        avatar = await Http.GetStringAsync("user/picture");
+        StateHasChanged();
+    }
+
+
+#line default
+#line hidden
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private HttpClient Http { get; set; }
     }
 }
 #pragma warning restore 1591

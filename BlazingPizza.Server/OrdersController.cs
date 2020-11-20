@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authorization;
+using System.Security.Claims;
 
 namespace BlazingPizza.Server
 {
@@ -24,6 +25,9 @@ namespace BlazingPizza.Server
         [HttpGet]
         public async Task<ActionResult<List<OrderWithStatus>>> GetOrders()
         {
+            string g = User.Identity.Name;
+            string email = User.FindFirstValue(ClaimTypes.Email);
+            string pic = User.FindFirstValue("profilepic");
             var orders = await _db.Orders
                 .Where(o => o.UserId == GetUserId())
                 .Include(o => o.DeliveryLocation)

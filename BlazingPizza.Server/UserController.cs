@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System.Threading.Tasks;
+using System.Security.Claims;
 
 namespace BlazingPizza.Server
 {
@@ -35,7 +36,16 @@ namespace BlazingPizza.Server
                 Microsoft.AspNetCore.Authentication.Google
                 .GoogleDefaults.AuthenticationScheme,
                 new AuthenticationProperties { RedirectUri = redirectUri });
+
         }
+
+        [HttpGet("user/picture")]
+        public string GetPicture()
+        {
+            string picurl =  User.FindFirstValue("profilepic");
+            return picurl;
+        }
+        
 
         [HttpGet("user/signout")]
         public async Task<IActionResult> SignOut()

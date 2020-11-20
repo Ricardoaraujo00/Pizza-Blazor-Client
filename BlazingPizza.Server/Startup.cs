@@ -1,13 +1,16 @@
 using System.Linq;
 using System.Net.Mime;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc.Infrastructure;
 using Microsoft.AspNetCore.ResponseCompression;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Hosting;
 
 namespace BlazingPizza.Server
@@ -54,12 +57,15 @@ namespace BlazingPizza.Server
              {
                  googleOptions.ClientId = Configuration["Authentication:Google:ClientId"];
                  googleOptions.ClientSecret = Configuration["Authentication:Google:ClientSecret"];
+                 googleOptions.ClaimActions.MapJsonKey("profilepic", "picture");
                  googleOptions.Events.OnRemoteFailure = (context) =>
                  {
                      context.HandleResponse();
                      return context.Response.WriteAsync("<script>window.close();</script>");
                  };
+                 
              });
+
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
